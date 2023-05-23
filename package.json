@@ -38,13 +38,5 @@
   "main": "postcss.config.js",
   "author": "",
   "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Nushcode/my_website.git"
-  },
-  "bugs": {
-    "url": "https://github.com/Nushcode/my_website/issues"
-  },
-  "homepage": "https://github.com/Nushcode/my_website#readme",
   "description": ""
 }
